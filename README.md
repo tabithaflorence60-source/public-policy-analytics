@@ -1,86 +1,47 @@
-# Global Sustainable Investment & Energy Transition
+# Public Policy Analytics
 
-**Climate Finance • Energy Policy • Governance • Emerging Markets**
+Research and analytical materials in public policy, sustainability, energy policy, governance, climate finance, and quantitative analysis.
 
-A research, teaching, and policy-analysis portfolio examining how finance, institutions, and public policy shape sustainable energy transitions. The work combines comparative policy analysis, sustainable investment, energy governance, and quantitative policy analysis. R-based scripts and models are added only after they have been tested against documented data.
+[Website](https://tabithashikuku.com/) · [Research](https://tabithashikuku.com/research/) · [YouTube](https://www.youtube.com/@tabithaflorenceshikuku9731)
 
-[Research Blog](https://tabithashikuku.com/) • [YouTube](https://www.youtube.com/@tabithaflorenceshikuku9731)
+## Research
 
-## Research question
+***Financing the Energy Transition*** [[Research note](Research/01-Financing-the-Energy-Transition.md)]
 
-**How do financial, governance, and policy arrangements shape investment and implementation in sustainable energy transitions?**
+***Who Governs Renewable-Energy Investment?*** [[Research note](Research/02-Who-Governs-Renewable-Energy-Investment.md)]
 
-## Research streams
+***Africa's Energy Investment Gap to 2030*** [[Research note](Research/03-Africa-Energy-Investment-Gap-2030.md)]
 
-**Sustainable Investment & Climate Finance**  
-Public and private capital, development finance, blended finance, investment risk, cost of capital, infrastructure finance, and the mobilization of capital for low-carbon development.
+***From COP Commitments to Capital*** [[Research note](Research/04-From-COP-Commitments-to-Capital.md)]
 
-**Energy Policy & Markets**  
-Electricity systems, renewable-energy deployment, energy access, tariffs, subsidies, utilities, infrastructure, and the political economy of transition.
+***Renewable-Energy Transitions and R*** [[Research note](Research/05-Renewable-Energy-Transitions-with-R.md)]
 
-**Governance & Institutions**  
-Policy implementation, regulatory institutions, public-private arrangements, polycentric governance, institutional capacity, and comparative energy governance.
+***Core Reading Map*** [[Reading](Literature/Core-Reading-Map.md)]
 
-**Global Climate Policy**  
-UNFCCC/COP processes, the Paris Agreement, NDCs, Agenda 2030, SDG 7, multilateral institutions, and the translation of international commitments into national investment and implementation.
+## Public Policy Analysis
 
-**Policy Analytics**  
-Data documentation, descriptive analysis, statistics, comparative indicators, and reproducible quantitative methods. Code is included only when it has been run, checked, and documented.
+***Introduction*** [[Notes](Notes/Introduction.md)] [[Slides](Slides/Introduction.md)]
 
-## Flagship work
+***Markets and Public Policy*** [[Notes](Notes/Markets-and-Public-Policy.md)] [[Slides](Slides/Markets-and-Public-Policy.md)]
 
-1. [Financing the Energy Transition: Public Policy, Private Capital and Institutional Risk](Research/01-Financing-the-Energy-Transition.md)
-2. [Who Governs Renewable-Energy Investment?](Research/02-Who-Governs-Renewable-Energy-Investment.md)
-3. [Africa's Energy Investment Gap to 2030](Research/03-Africa-Energy-Investment-Gap-2030.md)
-4. [From COP Commitments to Capital](Research/04-From-COP-Commitments-to-Capital.md)
-5. [Analyzing Renewable-Energy Transitions with R](Research/05-Renewable-Energy-Transitions-with-R.md)
+***Public Goods and Externalities*** [[Notes](Notes/Public-Goods-and-Externalities.md)] [[Slides](Slides/Public-Goods-and-Externalities.md)]
 
-## Curated literature
+***Policy Instruments*** [[Notes](Notes/Policy-Instruments.md)] [[Slides](Slides/Policy-Instruments.md)]
 
-The literature section is a research map rather than an archive. Readings are included when they strengthen a research question, framework, method, case, teaching note, or analytical project.
+***Cost-Benefit Analysis*** [[Notes](Notes/Cost-Benefit-Analysis.md)] [[Slides](Slides/Cost-Benefit-Analysis.md)]
 
-- [Core Reading Map](Literature/Core-Reading-Map.md)
-- Future reading maps: Sustainable Finance; Energy Governance; Global Climate Policy; Policy Analytics; Africa & Emerging Markets
+***Risk and Uncertainty*** [[Notes](Notes/Risk-and-Uncertainty.md)] [[Slides](Slides/Risk-and-Uncertainty.md)]
 
-## Applied cases
+***Institutions and Governance*** [[Notes](Notes/Institutions-and-Governance.md)] [[Slides](Slides/Institutions-and-Governance.md)]
 
-- Kenya: geothermal development, electricity governance, investment, and implementation
-- Portugal and the EU: renewable-energy governance, islands, multilevel policy, and investment
-- Africa: energy access, transition finance, development institutions, and regional governance
-- Emerging markets: investment frameworks, infrastructure, policy risk, and transition pathways
+***Equity and Distribution*** [[Notes](Notes/Equity-and-Distribution.md)] [[Slides](Slides/Equity-and-Distribution.md)]
 
-## Teaching
+***Policy Evaluation*** [[Notes](Notes/Policy-Evaluation.md)] [[Slides](Slides/Policy-Evaluation.md)]
 
-The teaching materials remain deliberately broad enough for public policy, sustainability, and energy programs while using energy-transition and sustainable-investment cases throughout.
+## Quantitative Analysis
 
-**Public Policy Analytics**
+***Data and R*** [[Notes](Notes/Data-and-R.md)] [[Slides](Slides/Data-and-R.md)]
 
-- [Markets and Public Policy](Notes/Markets-and-Public-Policy.md)
-- [Public Goods and Externalities](Notes/Public-Goods-and-Externalities.md)
-- [Policy Instruments](Notes/Policy-Instruments.md)
-- [Cost-Benefit Analysis](Notes/Cost-Benefit-Analysis.md)
-- [Data and R](Notes/Data-and-R.md)
-- [Statistical Inference](Notes/Statistical-Inference.md)
-- [Regression Analysis](Notes/Regression-Analysis.md)
-- [Risk and Uncertainty](Notes/Risk-and-Uncertainty.md)
-- [Institutions and Governance](Notes/Institutions-and-Governance.md)
-- [Equity and Distribution](Notes/Equity-and-Distribution.md)
-- [Policy Evaluation](Notes/Policy-Evaluation.md)
+***Statistical Inference*** [[Notes](Notes/Statistical-Inference.md)] [[Slides](Slides/Statistical-Inference.md)]
 
-## Research-to-practice model
-
-**Question → Concept → Evidence → Analysis → Policy Implications → Reproducible Analysis**
-
-The objective is to connect rigorous policy and governance analysis with finance, energy systems, and quantitative evidence.
-
-## Data and analytical sources
-
-Projects prioritize authoritative and reproducible sources including the IEA, IRENA, World Bank, IMF, OECD, African Development Bank, Eurostat, national regulators, energy ministries, utilities, and UN climate institutions.
-
-## Selected writing
-
-Longer-form analysis and commentary are published at [tabithashikuku.com](https://tabithashikuku.com/), including work on energy transitions, governance, climate resilience, and public policy.
-
-## About
-
-Tabitha Florence Shikuku, CPA, MBA, MPA is a PhD researcher in Sustainability working at the intersection of sustainable investment, energy policy, governance, and global energy transitions, with particular attention to Africa and emerging markets.
+***Regression Analysis*** [[Notes](Notes/Regression-Analysis.md)] [[Slides](Slides/Regression-Analysis.md)]
