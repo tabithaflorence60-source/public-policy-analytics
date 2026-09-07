@@ -4,6 +4,8 @@
 
 A research, teaching, and policy-analysis portfolio examining how finance, institutions, and public policy shape sustainable energy transitions. The work combines comparative policy analysis, sustainable investment, energy governance, and reproducible quantitative analysis with R.
 
+[Research Blog](https://tabithashikuku.com/) • [YouTube](https://www.youtube.com/@tabithaflorenceshikuku9731)
+
 ## Research question
 
 **How do financial, governance, and policy arrangements shape investment and implementation in sustainable energy transitions?**
@@ -35,7 +37,7 @@ R, statistics, regression, scenario analysis, cost-benefit analysis, comparative
 
 ## Curated literature
 
-The literature section is a **research map, not a PDF archive**. Readings are included only when they strengthen a research question, framework, method, case, teaching note, or analytical project.
+The literature section is a research map rather than an archive. Readings are included when they strengthen a research question, framework, method, case, teaching note, or analytical project.
 
 - [Core Reading Map](Literature/Core-Reading-Map.md)
 - Future reading maps: Sustainable Finance; Energy Governance; Global Climate Policy; Policy Analytics; Africa & Emerging Markets
@@ -75,11 +77,9 @@ The objective is to connect rigorous policy and governance analysis with finance
 
 Projects prioritize authoritative and reproducible sources including the IEA, IRENA, World Bank, IMF, OECD, African Development Bank, Eurostat, national regulators, energy ministries, utilities, and UN climate institutions.
 
-## Video channel
+## Selected writing
 
-[Tabitha Florence Shikuku on YouTube](https://www.youtube.com/@tabithaflorenceshikuku9731)
-
-Videos will be linked to the relevant research and teaching pages as the portfolio develops.
+Longer-form analysis and commentary are published at [tabithashikuku.com](https://tabithashikuku.com/), including work on energy transitions, governance, climate resilience, and public policy.
 
 ## About
 
