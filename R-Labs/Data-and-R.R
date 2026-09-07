@@ -1,17 +1,6 @@
-# Public Policy Analytics
 # Data and R Lab
-
-getwd()
-list.files()
-
-# Load saved course data
-# load("DataAnalysisPAData.rdata")
-# ls()
-
-# Import CSV
-# data <- read.csv("data.csv")
-
-# Inspect
-# names(data)
-# summary(data)
-# View(data)
+#
+# Validated R exercises will be added here after they have been run
+# successfully against documented datasets and checked for reproducibility.
+#
+# This file is intentionally code-free for now.
