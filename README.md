@@ -1,6 +1,6 @@
-# Public Policy Analytics
+# Global Sustainable Investment & Energy Transition
 
-Research and analytical materials in public policy, sustainability, energy policy, governance, climate finance, and quantitative analysis.
+**Climate Finance • Energy Policy • Governance • Emerging Markets**
 
 [Website](https://tabithashikuku.com/) · [Research](https://tabithashikuku.com/research/) · [YouTube](https://www.youtube.com/@tabithaflorenceshikuku9731)
 
