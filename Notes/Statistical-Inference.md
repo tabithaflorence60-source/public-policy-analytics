@@ -1,8 +1,7 @@
 # Statistical Inference
 
-Statistical inference helps policy analysts reason from samples while communicating uncertainty.
+## Topics
 
-## Concepts
 - sampling variability
 - standard errors
 - confidence intervals
@@ -10,5 +9,3 @@ Statistical inference helps policy analysts reason from samples while communicat
 - p-values
 - effect size
 - statistical versus practical significance
-
-R examples will be added only after the relevant dataset, assumptions, and test specifications have been validated.
