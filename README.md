@@ -33,6 +33,13 @@ R, statistics, regression, scenario analysis, cost-benefit analysis, comparative
 4. [From COP Commitments to Capital](Research/04-From-COP-Commitments-to-Capital.md)
 5. [Analyzing Renewable-Energy Transitions with R](Research/05-Renewable-Energy-Transitions-with-R.md)
 
+## Curated literature
+
+The literature section is a **research map, not a PDF archive**. Readings are included only when they strengthen a research question, framework, method, case, teaching note, or analytical project.
+
+- [Core Reading Map](Literature/Core-Reading-Map.md)
+- Future reading maps: Sustainable Finance; Energy Governance; Global Climate Policy; Policy Analytics; Africa & Emerging Markets
+
 ## Applied cases
 
 - Kenya: geothermal development, electricity governance, investment, and implementation
