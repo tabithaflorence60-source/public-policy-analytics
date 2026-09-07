@@ -1,10 +1,6 @@
 # Statistical Inference Lab
-
-# One-sample test
-# t.test(data$outcome)
-
-# Two-group comparison
-# t.test(outcome ~ group, data=data)
-
-# Proportion test
-# prop.test(x=60, n=100)
+#
+# Validated R exercises will be added here after the dataset,
+# test assumptions, specifications, and outputs have been checked.
+#
+# This file is intentionally code-free for now.
