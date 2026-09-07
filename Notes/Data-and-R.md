@@ -12,50 +12,19 @@ The analytical sequence is:
 4. document the data source
 5. clean and inspect the data
 6. summarize and visualize
-7. estimate the model or test
+7. select an appropriate model or statistical test
 8. interpret the result in policy language
 9. save code, data documentation, and outputs reproducibly
 
-## 2. Basic R workflow
+## 2. Working with policy data
 
-```r
-getwd()
-list.files()
-load("DataAnalysisPAData.rdata")
-ls()
-names(crime)
-summary(crime)
-```
+A sound workflow should document where the data came from, how variables are defined, how missing values are handled, and what transformations are made before analysis.
 
-## 3. Working with policy data
+## 3. Visualization before modeling
 
-```r
-data <- read.csv("energy_policy_data.csv")
+Plots can help identify trends, outliers, structural breaks, and differences that should be understood before regression or other statistical modeling.
 
-names(data)
-summary(data)
-head(data)
-
-# inspect missing values
-colSums(is.na(data))
-
-# simple country comparison
-aggregate(renewable_share ~ country, data=data, FUN=mean)
-```
-
-## 4. Visualization before modeling
-
-```r
-plot(data$year, data$renewable_share,
-     xlab="Year",
-     ylab="Renewable electricity share")
-
-boxplot(renewable_share ~ country, data=data)
-```
-
-Plots help identify trends, outliers, structural breaks, and differences that should be understood before regression.
-
-## 5. Energy-policy data strategy
+## 4. Energy-policy data strategy
 
 The long-term goal is to build a small set of reusable comparative datasets rather than starting from zero for every paper or class.
 
@@ -71,7 +40,7 @@ Potential sources include:
 
 For the Kenya–Portugal research program, useful variables may include renewable generation share, installed capacity, electricity access, prices, outage indicators, investment, emissions, grid capacity, storage, and selected governance or institutional indicators.
 
-## 6. Data documentation
+## 5. Data documentation
 
 Every dataset should include a codebook describing:
 
@@ -84,6 +53,10 @@ Every dataset should include a codebook describing:
 - transformations
 - missing-data decisions
 
+## 6. Code standard
+
+R code will be added only after it has been run successfully against a documented dataset and checked for reproducibility. Placeholder functions, model formulas, and untested examples are intentionally excluded.
+
 ## 7. Why this belongs in the portfolio
 
-The R component is not separate from the substantive expertise. Building, cleaning, documenting, and analyzing energy-policy data is part of becoming a stronger energy-policy analyst. The repository should therefore accumulate reusable scripts and datasets that support both teaching and dissertation research.
+The R component is not separate from the substantive expertise. Building, cleaning, documenting, and analyzing energy-policy data is part of becoming a stronger energy-policy analyst. The repository should therefore accumulate validated scripts and datasets that support both teaching and dissertation research.
