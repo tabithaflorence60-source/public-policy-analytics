@@ -2,7 +2,7 @@
 
 **Climate Finance • Energy Policy • Governance • Emerging Markets**
 
-A research, teaching, and policy-analysis portfolio examining how finance, institutions, and public policy shape sustainable energy transitions. The work combines comparative policy analysis, sustainable investment, energy governance, and reproducible quantitative analysis with R.
+A research, teaching, and policy-analysis portfolio examining how finance, institutions, and public policy shape sustainable energy transitions. The work combines comparative policy analysis, sustainable investment, energy governance, and quantitative policy analysis. R-based scripts and models are added only after they have been tested against documented data.
 
 [Research Blog](https://tabithashikuku.com/) • [YouTube](https://www.youtube.com/@tabithaflorenceshikuku9731)
 
@@ -25,7 +25,7 @@ Policy implementation, regulatory institutions, public-private arrangements, pol
 UNFCCC/COP processes, the Paris Agreement, NDCs, Agenda 2030, SDG 7, multilateral institutions, and the translation of international commitments into national investment and implementation.
 
 **Policy Analytics**  
-R, statistics, regression, scenario analysis, cost-benefit analysis, comparative indicators, and reproducible policy research.
+Data documentation, descriptive analysis, statistics, comparative indicators, and reproducible quantitative methods. Code is included only when it has been run, checked, and documented.
 
 ## Flagship work
 
