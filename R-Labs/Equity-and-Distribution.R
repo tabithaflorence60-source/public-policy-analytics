@@ -1,9 +1,6 @@
 # Equity and Distribution Lab
-
-# Cross-tabulation
-# tab <- table(data$group, data$outcome)
-# prop.table(tab, 1)
-# chisq.test(tab)
-
-# Compare distributions
-# boxplot(value ~ group, data=data)
+#
+# Validated R exercises will be added here after the relevant dataset,
+# variables, assumptions, and outputs have been checked.
+#
+# This file is intentionally code-free for now.
