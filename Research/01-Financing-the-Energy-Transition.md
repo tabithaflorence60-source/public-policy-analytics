@@ -43,10 +43,6 @@ A reproducible R-based analysis can examine relationships among:
 
 Potential methods include descriptive trend analysis, panel regression, event-based policy comparison, scenario analysis, and sensitivity analysis.
 
-### Policy relevance
-
-The project is designed to speak to governments, regulators, development finance institutions, infrastructure investors, multilateral organizations, and researchers working on energy-transition implementation.
-
 ### Research-to-practice questions
 
 - Which policy risks most strongly deter renewable-energy investment?
@@ -54,7 +50,3 @@ The project is designed to speak to governments, regulators, development finance
 - How do utility reform and tariff design affect investment readiness?
 - How should risk be allocated between governments, investors, utilities, and consumers?
 - What financing structures best support both investment scale and equitable access?
-
-### Next development
-
-This page will be expanded into a longer policy paper with comparative evidence, R analysis, figures, and country cases.
