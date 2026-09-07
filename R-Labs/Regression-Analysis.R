@@ -1,12 +1,6 @@
 # Regression Analysis Lab
-
-# Bivariate regression
-# model1 <- lm(outcome ~ predictor, data=data)
-# summary(model1)
-
-# Multivariate regression
-# model2 <- lm(outcome ~ predictor1 + predictor2, data=data)
-# summary(model2)
-
-# Diagnostics
-# plot(model2)
+#
+# Validated R exercises will be added here after the dataset,
+# model specification, assumptions, diagnostics, and outputs have been checked.
+#
+# This file is intentionally code-free for now.
