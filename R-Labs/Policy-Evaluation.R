@@ -1,8 +1,6 @@
 # Policy Evaluation Lab
-
-# Paired before/after comparison
-# t.test(data$before, data$after, paired=TRUE)
-
-# Simple regression adjustment
-# model <- lm(outcome ~ treatment + baseline + controls, data=data)
-# summary(model)
+#
+# Validated R exercises will be added here after the evaluation design,
+# dataset structure, assumptions, and outputs have been checked.
+#
+# This file is intentionally code-free for now.
