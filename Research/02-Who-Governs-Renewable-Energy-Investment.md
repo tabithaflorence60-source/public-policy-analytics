@@ -42,7 +42,6 @@ The project combines:
 - comparative case study methods
 - interviews and documentary evidence
 - investment and energy indicators
-- R-based comparative analysis where quantitative data are available
 
 ### Key questions
 
@@ -52,11 +51,3 @@ The project combines:
 - How do international institutions influence domestic choices?
 - How are community interests and transition costs incorporated?
 - Which governance arrangements reduce investor uncertainty without weakening accountability?
-
-### Policy relevance
-
-This work is relevant to energy ministries, regulators, utilities, development banks, climate-finance institutions, infrastructure investors, and public-sector organizations seeking to improve implementation capacity.
-
-### Next development
-
-The next version will include institutional maps for Kenya/Olkaria and Portugal/São Miguel, a comparative governance matrix, and a set of measurable governance indicators.
