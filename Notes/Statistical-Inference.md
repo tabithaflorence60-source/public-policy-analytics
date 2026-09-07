@@ -11,7 +11,4 @@ Statistical inference helps policy analysts reason from samples while communicat
 - effect size
 - statistical versus practical significance
 
-```r
-t.test(data$outcome)
-t.test(outcome ~ group, data=data)
-```
+R examples will be added only after the relevant dataset, assumptions, and test specifications have been validated.
