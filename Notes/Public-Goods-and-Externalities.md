@@ -49,18 +49,9 @@ Economic efficiency is one criterion, but policy analysis should also evaluate d
 - How should grid reliability be treated when reliability benefits extend beyond individual market transactions?
 - Which climate actions are best coordinated nationally, and which can be pursued through multiple centers of decision-making?
 
-## 7. R application
+## 7. Quantitative application
 
-A simple externality model can compare private and social costs.
-
-```r
-PMC <- function(q) 15 + 2*q
-EMC <- function(q) 5 + q
-SMC <- function(q) PMC(q) + EMC(q)
-Demand <- function(q) 90 - 3*q
-```
-
-The next step is to solve for the private-market equilibrium and the socially efficient quantity, then visualize the welfare difference and test how a corrective tax changes behavior.
+A future quantitative application could compare private and social costs, estimate equilibrium differences, and examine how policy instruments change outcomes. Any R implementation will be added only after the model assumptions, equations, and code have been checked and documented.
 
 ## 8. Research connection
 
