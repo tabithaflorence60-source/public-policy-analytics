@@ -31,25 +31,9 @@ A strong analysis should disaggregate outcomes rather than rely only on system-w
 
 Distribution is only one dimension of justice. Procedural questions concern who has access to decision-making, while recognition concerns whether different forms of knowledge, identity, history, and lived experience are treated as legitimate.
 
-## 5. R applications
+## 5. Quantitative applications
 
-Basic group comparisons can reveal disparities that disappear in aggregate statistics.
-
-```r
-tab <- table(data$group, data$outcome)
-prop.table(tab, 1)
-chisq.test(tab)
-
-aggregate(cost ~ community, data=data, FUN=mean)
-aggregate(benefit ~ community, data=data, FUN=mean)
-```
-
-More advanced work can model whether policy effects differ across groups using interaction terms.
-
-```r
-model <- lm(outcome ~ policy * income_group + controls, data=data)
-summary(model)
-```
+Quantitative analysis can help identify disparities across groups and communities, but model specifications should be added only after the underlying data, variables, and assumptions have been checked. Group comparisons and interaction effects can be useful when they are tied to a clearly defined policy question.
 
 ## 6. Applied research questions
 
