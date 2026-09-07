@@ -34,14 +34,7 @@ The method should follow the policy question and the data-generating process, no
 
 ## 4. Difference-in-differences
 
-Difference-in-differences compares the change in outcomes for a treated group with the change for a comparison group.
-
-```r
-model <- lm(outcome ~ treated * post + controls, data=data)
-summary(model)
-```
-
-The interaction between `treated` and `post` is the key policy-effect estimate under the design assumptions.
+Difference-in-differences compares the change in outcomes for a treated group with the change for a comparison group. A formal specification will be added only after the data structure, treatment timing, comparison group, assumptions, and code have been checked.
 
 ## 5. Theory of change
 
